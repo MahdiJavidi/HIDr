@@ -1,0 +1,26 @@
+/* for change dropdown menu text align (RTL)  */
+.dropdown-menu {
+    right: 0;
+    left: inherit;
+    text-align: right;
+}
+
+/* for change dropdown menu ::after icon place   */
+.dropdown-toggle::after {
+    vertical-align: 0.20em;
+}
+
+.navbar { 
+    background-color: #007b43 !important;
+    /* padding: 1px 3px !important; */
+    /* font-weight: bold; */
+}
+
+.bg-primary {
+   /* background-image: url("https://media.graytvinc.com/images/OTC+hearing+aids.jpg"); */
+   /* background-repeat: no-repeat, repeat; */
+   background-color: #2a2f35 !important;
+}
+
+h2-border {text-align: center; background-color: #fff; background: url("http://i.imgur.com/Kkw7rPC.png?1") center center repeat-x #fff;}
+h2-border .text {background-color: #fff; padding: 10px; display: inline-block;}
